@@ -1,2 +1,2 @@
 # learnJavaScript
-Learning
+Learning new stuffß
